@@ -1,7 +1,7 @@
 @import 'config';
 @import 'home';
 @import './menu';
-
+// this is an scss file it was amazing
 body{
   background: $primary-color;
   color: set-text-color($primary-color);
@@ -24,6 +24,7 @@ header{
   z-index: 2;
   width: 100px;
   padding: 1rem;
+  margin: 0
 }
 
 
